@@ -1,0 +1,29 @@
+#payment ul li {
+  border-bottom: 1px dashed lightgray;
+
+}
+body
+{
+  background-image: url('paymentbg.png');
+  height: 100%;
+}
+
+#payment ul li a {
+  padding: 8px 20px 8px 20px;
+  color: yellow;
+  display: inline-block;
+  font-size: 50px;
+}
+h2
+{
+  font-size: 80px;
+  color: white;
+  text-align: center;
+}
+#payment ul li a:hover {
+  background-color: red  ;
+  transition: 0.5s;
+  padding-left: 30px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+}

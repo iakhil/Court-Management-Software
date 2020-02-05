@@ -1,0 +1,60 @@
+#leftsideMenu ul li {
+  border-bottom: 1px dashed lightgray;
+
+}
+h1
+{
+  text-align: center;
+}
+
+#leftsideMenu ul li a{
+  padding: 8px 20px 8px 20px;
+  color: green;
+  display: inline-block;
+}
+#ul_top
+{
+  display:top;
+}
+
+#leftsideMenu ul li a:hover {
+  background-color: lightgreen;
+  transition: 0.5s;
+  padding-left: 30px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+}
+
+
+body, html {
+  height: 100%;
+  background-image: url("bg image.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul
+{
+  font-size: 30px;
+  text-align: center;
+  margin: 10px 0;
+}
+h1
+{
+  font-size: 60px;
+}
